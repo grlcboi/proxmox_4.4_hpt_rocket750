@@ -3,9 +3,9 @@ Updated hptdrv-monitor script to work with ProxMox v4.4
 
 Changes involve renaming:
 
-"linux-image" becomes "pve-image"
+"linux-image" becomes "pve-kernel"
 
-"pve-kernel" becomes "pve-kernel"
+"linux-headers" becomes "pve-headers"
 
 Tested on ProxMox 4.4
 
